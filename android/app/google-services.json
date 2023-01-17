@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "360625992410",
+    "project_id": "wiredsocial-a98d6",
+    "storage_bucket": "wiredsocial-a98d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360625992410:android:9e06656c053dd45f7a2be3",
+        "android_client_info": {
+          "package_name": "com.appinventiv.wired_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360625992410-r9gu6ulq2i59s0dqd1r2f4khol9p29ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0vQs6j3uz7Qdabe1n2jba7na_P4kmnss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360625992410-r9gu6ulq2i59s0dqd1r2f4khol9p29ij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "360625992410-qhgphmsmklb0bmmmv8ahn2hv3ecfgeak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appinventiv.wiredSocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
